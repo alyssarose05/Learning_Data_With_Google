@@ -1,7 +1,7 @@
 # Learning Data with Google
 
 Free access to the Google professional certificates on Coursera were given to me as a perk of my [Data Analytics fellowship with COOP Careers!](https://github.com/alyssarose05/COOP) 
-During my fellowship and onwards, I worked on certifications in Data Analytics, Business Intelligence, and Advanced Data Analytics. I gained skills with Excel, Tableau, R, Jupyter Notebook, and Python with projects created by the Coursera programs.
+From Aug. 2024 to Feb. 2025, I worked on certifications in Data Analytics, Business Intelligence, and Advanced Data Analytics. I gained skills with Excel, Tableau, R, Jupyter Notebook, and Python with projects created by the Coursera programs.
 
 ## Google Data Analytics
 _Tools: Tableau, Excel, R_  
